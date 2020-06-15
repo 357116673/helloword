@@ -1,1 +1,2 @@
-message: 'test properties (test v1.0)'
+message:
+  'test properties (test v1.0)'
